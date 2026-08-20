@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/rohanvasudeva/LeetCode/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/rohanvasudeva/LeetCode/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/rohanvasudeva/LeetCode/tree/master/0043-multiply-strings) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/rohanvasudeva/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
